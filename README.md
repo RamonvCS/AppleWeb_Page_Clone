@@ -1,10 +1,10 @@
 # Apple Website Clone
 
 ## Landing Page
-![Landing Page](./images/LandingPage.png)
+![Landing Page](./public/assets/images/LandingPage.png)
 
-## Second Page
-![Second Page](./images/SecondPage.png)
+## Scrolling Down 
+![Second Page](./public/assets/images/SecondPage.png)
 
 This project is a high-fidelity clone of the Apple website, designed to replicate its look and feel while incorporating modern web technologies for learning and demonstration purposes.
 
@@ -28,12 +28,3 @@ To get a local copy up and running, follow these simple steps.
 - **npm**
   ```sh
   npm install npm@latest -g
-
-  git clone https://github.com/RamonvCS/AppleWeb_Page_Clone.git
-  
-  cd AppleWeb_Page_Clone
-
-  npm install
-
-  npm run dev
-
