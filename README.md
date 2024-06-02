@@ -4,7 +4,7 @@
 ![Landing Page](./public/assets/images/LandingPage.png)
 
 ## Scrolling Down 
-![Second Page](./public/assets/images/SecondPage.png)
+![lower Page](./public/assets/images/LowerPage.png)
 
 This project is a high-fidelity clone of the Apple website, designed to replicate its look and feel while incorporating modern web technologies for learning and demonstration purposes.
 
