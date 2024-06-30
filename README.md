@@ -24,9 +24,15 @@ This project is a high-fidelity clone of the Apple website, designed to replicat
 ## Getting Started
 To get a local copy up and running, follow these simple steps.
 
+- git clone https://github.com/your_username/apple-website-clone.git
+
+
 ### Prerequisites
 - **npm**
   ```sh
+
+  git clone https://github.com/your_username/apple-website-clone.git
+  
   npm install npm@latest -g
 
   npm start
